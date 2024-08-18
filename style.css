@@ -1,0 +1,92 @@
+.Home-section{
+    background-image: url('ocean.jpg');
+    background-size: cover;
+    height: 100vh;
+    margin: 10px;
+}
+.About-section{
+    background-image: url('seabg.png');
+    background-size: cover;
+    padding: 20px;
+    margin: 10px;
+}
+.detailed-view-page{
+    background-image: url('seabg.png');
+    background-size: cover;
+    padding: 30px;
+    margin: 10px;
+}
+.detailed-card{
+    background-color: white;
+    padding: 20px;
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+}
+
+.card3{
+    padding: 20px;
+    
+}
+.h-card{
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+
+}
+.p-card{
+    font-size: 15px;
+    color: gray;
+}
+.d-card{
+    background-color: azure;
+    text-align: center;
+    padding: 30px;
+    border-top-left-radius: 32px;
+    border-top-right-radius: 32px;
+   
+}
+.card1{
+    background-color: azure;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px;
+}
+.head{
+    font-family: 'bree serif';
+    font-size: 22px;
+    padding-top: 15px;
+}
+.para{
+    font-family: 'roboto';
+    font-size: 10px;
+    color: gray;
+    padding-top: 5px;
+}
+.image-card{
+    width: 230px;
+    height: 120px;
+    padding: 5px;
+    border-radius: 16px;
+}
+
+.heading{
+    color: aqua;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+}
+.paragraph{
+    color: gray;
+    font-size: medium;
+    font-family: 'roboto';
+
+}
+.button{
+    width: 140px;
+    background-color:aqua;
+    height: 36px;
+    font-weight: 600;
+    color: white;
+    border-width: 0px;
+    border-radius: 8px;
+    text-align: center;
+}
